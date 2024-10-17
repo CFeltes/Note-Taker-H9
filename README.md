@@ -49,9 +49,8 @@ Visit my sites here!
 https://CFeltes.github.io/Note-Taker-H9/
 https://github.com/CFeltes/Note-Taker-H9
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot-1-H9.jpg)
+![See Second Page Screenshot](Screenshot-2-H9.jpg)
 
 
 ## Contributing

@@ -1,16 +1,22 @@
 {
-    "name": "note-taker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.16.4",
-      "uuid": "^8.3.2"
-    }
+  "name": "note-taker-h9",
+  "version": "1.0.0",
+  "description": "Ninth homework assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFeltes/Note-Taker-H9.git"
+  },
+  "author": "CFeltes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFeltes/Note-Taker-H9/issues"
+  },
+  "homepage": "https://github.com/CFeltes/Note-Taker-H9#readme",
+  "dependencies": {
+    "express": "^4.21.1"
   }
+}
