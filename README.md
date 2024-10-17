@@ -46,8 +46,9 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Note-Taker-H9/
-https://github.com/CFeltes/Note-Taker-H9
+https://cfeltes.github.io/Note-Taker-H9/
+https://github.com/CFeltes/Note-Taker-H9.git
+git@github.com:CFeltes/Note-Taker-H9.git
 
 ![See First Page Screenshot](Screenshot-1-H9.jpg)
 ![See Second Page Screenshot](Screenshot-2-H9.jpg)
